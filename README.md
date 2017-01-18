@@ -1,2 +1,2 @@
 # hello-world
-just a start demo
+just a helloworld demo
